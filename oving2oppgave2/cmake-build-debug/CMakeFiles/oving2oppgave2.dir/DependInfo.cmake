@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/marti/CLionProjects/oving2oppgave2/main.cpp" "C:/Users/marti/CLionProjects/oving2oppgave2/cmake-build-debug/CMakeFiles/oving2oppgave2.dir/main.cpp.obj"
+  "C:/Users/marti/Desktop/gitmappe/mas245/student/oving2oppgave2/main.cpp" "C:/Users/marti/Desktop/gitmappe/mas245/student/oving2oppgave2/cmake-build-debug/CMakeFiles/oving2oppgave2.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
