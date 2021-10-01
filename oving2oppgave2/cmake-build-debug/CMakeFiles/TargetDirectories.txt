@@ -1,0 +1,3 @@
+C:/Users/marti/CLionProjects/oving2oppgave2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marti/CLionProjects/oving2oppgave2/cmake-build-debug/CMakeFiles/oving2oppgave2.dir
+C:/Users/marti/CLionProjects/oving2oppgave2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
